@@ -1,2 +1,7 @@
 # C
-This repository contains all my work on C programming of my 2nd and 3rd year of Computer Science Degree
+Projects :\
+Labyrinth (2nd year)\
+Image compression using quadtrees (3rd year)\
+\
+TPs :\
+Taquin (3rd year) : small project\
